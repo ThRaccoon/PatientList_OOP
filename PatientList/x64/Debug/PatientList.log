@@ -1,0 +1,7 @@
+﻿  DiagnosisAndMedicine.cpp
+  Main.cpp
+C:\Games&apps\C++\PatientList\PatientList\Main.cpp(196,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Patient.cpp
+  PatientList.cpp
+  Generating Code...
+  PatientList.vcxproj -> C:\Games&apps\C++\PatientList\x64\Debug\PatientList.exe
